@@ -1,7 +1,8 @@
-<script setup></script>
+<script setup>
+import Form from "./components/Form.vue";
+</script>
 
 <template>
-  <h1>Coucou</h1>
+  <h1>Stud'Event</h1>
+  <Form></Form>
 </template>
-
-<style scoped></style>
